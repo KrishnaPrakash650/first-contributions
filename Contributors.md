@@ -16,6 +16,7 @@
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Danielle Kushnir] (https://github.com/daniellekush)
+- [Krishna Prakash] (https://github.com/KrishnaPrakash650)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [Yoko Saka](https://github.com/yocosaka)
